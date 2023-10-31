@@ -21,3 +21,6 @@ Follow these steps to install and set up the project:
     ```bash
     npm run dev
     ```
+
+![Project Screenshot](public/readme-screenshot.png)
+
