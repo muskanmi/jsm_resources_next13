@@ -25,4 +25,4 @@ export default function RootLayout({
       <body className="min-h-screen bg-black-100 font-poppins">{children}</body>
     </html>
   )
-}
+} 
