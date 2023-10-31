@@ -1,5 +1,7 @@
 ## Installation and Setup
 
+![Project Screenshot](public/readme-screenshot.png)
+
 Follow these steps to install and set up the project:
 
 1. **Clone the repository** to your local machine using the following command:
@@ -21,6 +23,3 @@ Follow these steps to install and set up the project:
     ```bash
     npm run dev
     ```
-
-![Project Screenshot](public/readme-screenshot.png)
-
